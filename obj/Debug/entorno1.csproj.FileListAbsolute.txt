@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\entorno1\entorno1\bin\Debug\entorno1.exe.config
+C:\Users\Usuario\source\repos\entorno1\entorno1\bin\Debug\entorno1.exe
+C:\Users\Usuario\source\repos\entorno1\entorno1\bin\Debug\entorno1.pdb
+C:\Users\Usuario\source\repos\entorno1\entorno1\obj\Debug\entorno1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\entorno1\entorno1\obj\Debug\entorno1.Form1.resources
+C:\Users\Usuario\source\repos\entorno1\entorno1\obj\Debug\entorno1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\entorno1\entorno1\obj\Debug\entorno1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\entorno1\entorno1\obj\Debug\entorno1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\entorno1\entorno1\obj\Debug\entorno1.exe
+C:\Users\Usuario\source\repos\entorno1\entorno1\obj\Debug\entorno1.pdb
